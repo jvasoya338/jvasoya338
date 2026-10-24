@@ -104,5 +104,5 @@ I’m open to:
 
 - LinkedIn: https://www.linkedin.com/in/jvasoya338
 - GitHub: https://github.com/jvasoya338
-- Website: https://tjverse.group
+- Website: https://jerry.tjverse.group
 - Email: jerryvasoya338@gmail.com
