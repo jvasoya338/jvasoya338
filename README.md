@@ -1,4 +1,4 @@
-# Hi, I'm Jignesh Vasoya 👋
+# Hi, I'm Jerry (Jignesh) Vasoya 👋
 
 ## Senior Full Stack Laravel Developer
 
